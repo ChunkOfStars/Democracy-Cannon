@@ -9,7 +9,7 @@ They are recruiting our children, friends & family, turning them into 'poison pi
 
 There is no reason for this. We are much better with technology than they are. Short of eastern Europe, we have the best hackers on the planet.
 
-The problem was we were not thinking assymmetrically enough. With this tool, now we are.
+The problem was we were not thinking asymmetrically enough. With this tool, now we are.
 
 This tool will allow you to link your twitter account to the command line interface of your system.
 When running, it searches a designated accounts tweets for a special #hashtag. When found the tool finds the target @userName in that special tweet, and reports that user for spam
