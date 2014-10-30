@@ -2,10 +2,13 @@ Democracy-Cannon
 ================
 
 "a tool to silence those who would lure children from their homes to fight a pointless war"
+
 The free world is losing the cyber battle taking place on social media, against the terrorists who claim the name 'Islamic State'.
+
 They are recruiting our children, friends & family, turning them into 'poison pills', ordinary citizens walking amongst us, with orders to bring destruction and chaos in the name of the islamic state.
 
 There is no reason for this. We are much better with technology than they are. Short of eastern Europe, we have the best hackers on the planet.
+
 The problem was we were not thinking assymmetrically enough. With this tool, now we are.
 
 This tool will allow you to link your twitter account to the command line interface of your system.
@@ -25,7 +28,9 @@ Installation & Setup
 
 (Ubuntu) linux
 ./1sudo-setup.sh (with root perms) to install proper version of ruby if not installed and install the 't' CLI ruby gem
+
 ./2setup.sh to link the CLI to your twitter account, and download initial lastreadtweetid.txt
 
 Then each time you wish to run:
+
 ./3runthis.sh
