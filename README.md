@@ -34,3 +34,11 @@ Installation & Setup
 Then each time you wish to run:
 
 ./3runthis.sh
+
+
+Thanks to: 
+sferik, developer of 't' the Twitter CLI. https://github.com/sferik/t
+The helpful people in #sed and #awk, you know who you are
+KM Syring, developer of Unix Utils, for windows http://sourceforge.net/projects/unxutils/
+Mom, for teaching me to stand up for what I believe in, to be LOUD when necessary, and to help those that can not help themselves.
+th3j35t3r, for demonstrating that one person, thinking asymmetrically, can make a difference, and for inspriation. https://twitter.com/th3j35t3r
