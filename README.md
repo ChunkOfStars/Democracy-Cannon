@@ -18,9 +18,9 @@ Simple idea, but the power is in numbers. The more people linked around the glob
 
 
 
-Ubuntu-linux has been tested on 12.04 and 14.04. The package names are the same for debian, so it should work but has not been tested.
+_**Ubuntu-linux has been tested on 12.04 and 14.04. The package names are the same for debian, so it should work but has not been tested.**_
 
-Win32 is not complete yet.
+_**Win32 is not complete yet.**_
 
 Directions
 =============
@@ -28,6 +28,7 @@ Directions
 Installation, Setup & Operation: 1, 2, then 3
 
 linux
+
 ./1sudo-setup.sh (with root perms) to install proper version of ruby if not installed and install the 't' CLI ruby gem
 
 ./2setup.sh to link the CLI to your twitter account, and download initial lastreadtweetid.txt
